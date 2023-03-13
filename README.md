@@ -1,4 +1,4 @@
-## ✨ Trigger.dev Hello World
+ ## ✨ Trigger.dev Hello World
 
 This repo is a very simple starting point for creating your Trigger.dev workflows.
 
